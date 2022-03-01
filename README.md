@@ -6,6 +6,6 @@
 <h6>💡 create new entity : php bin/console make:entity </h6>
 <h6>💡 create new migration (1/2): php bin/console make:migration </h6>
 <h6>💡 create new migration (2/2): php bin/console doctrine:migrations:migrate </h6>
-<h6>💡 create new form : php bin/console make:form </h6>
+<h6>💡 create new form : php bin/console make:form </h6> ..
 
 
